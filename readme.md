@@ -1,5 +1,11 @@
 # alog 
 
+## commands
+hugo server (run development server)  
+hugo server -D (run development server with drafts)  
+
+**caution**  
+hugo (publish)  
 
 ## git branch stategy
 If you "publish" a Hugo site by running the command `hugo`, commit your changes and push to main, the next person to pull from main will not be able to run in development mode with `hugo server --buildDrafts` or `hugo server -D`.
@@ -82,6 +88,35 @@ Press Ctrl+C to stop
 ```
 
 ![first build](assets/first-build.png "first build")
+
+```
+hugo new content content/posts/my-first-post.md
+Content "/Users/arionalmond/github.com/arionalmond/alog/content/posts/my-first-post.md" created
+mind@yours alog % hugo server --buildDrafts
+Watching for changes in /Users/arionalmond/github.com/arionalmond/alog/{archetypes,assets,content,data,i18n,layouts,static,themes}
+Watching for config changes in /Users/arionalmond/github.com/arionalmond/alog/hugo.toml, /Users/arionalmond/github.com/arionalmond/alog/themes/alog/hugo.toml
+Start building sites … 
+hugo v0.135.0+extended darwin/amd64 BuildDate=2024-09-27T13:17:08Z VendorInfo=brew
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 19  
+  Paginator pages  |  0  
+  Non-page files   |  1  
+  Static files     |  1  
+  Processed images |  0  
+  Aliases          |  0  
+  Cleaned          |  0  
+
+Built in 39 ms
+Environment: "development"
+Serving pages from disk
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1) 
+Press Ctrl+C to stop
+```
+![build after first post](assets/build-after-first-post.png "build-after-first-post")
 
 ## notes
 [Hugo in 100 Seconds](https://www.youtube.com/watch?v=0RKpf3rK57I)  
