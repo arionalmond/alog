@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gray on arion - a log</title>
-    <link>http://localhost:1313/alog/tags/gray/</link>
+    <link>https://arionalmond.github.io/alog/tags/gray/</link>
     <description>Recent content in Gray on arion - a log</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Feb 2025 15:42:56 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/alog/tags/gray/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arionalmond.github.io/alog/tags/gray/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Second Post</title>
-      <link>http://localhost:1313/alog/posts/my-second-post/</link>
+      <link>https://arionalmond.github.io/alog/posts/my-second-post/</link>
       <pubDate>Fri, 21 Feb 2025 15:42:56 -0500</pubDate>
-      <guid>http://localhost:1313/alog/posts/my-second-post/</guid>
+      <guid>https://arionalmond.github.io/alog/posts/my-second-post/</guid>
       <description>&lt;p&gt;This post is in NOT IN draft and should show up when site is published.&lt;/p&gt;</description>
     </item>
   </channel>

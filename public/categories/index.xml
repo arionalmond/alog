@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on arion - a log</title>
-    <link>http://localhost:1313/alog/categories/</link>
+    <link>https://arionalmond.github.io/alog/categories/</link>
     <description>Recent content in Categories on arion - a log</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/alog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arionalmond.github.io/alog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
