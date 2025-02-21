@@ -19,6 +19,7 @@ add the ananke theme by copying config in themes/ananke/exampleSite/config.toml 
 
 ## Hosting 
 https://gohugo.io/hosting-and-deployment/hosting-on-github/
+changed the hugo version from 0.141.0 to 0.135.0
 
 ## Notes 
 [Hugo in 100 Seconds](https://www.youtube.com/watch?v=0RKpf3rK57I)  
