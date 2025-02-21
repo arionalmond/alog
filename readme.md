@@ -5,7 +5,7 @@ hugo server (run development server)
 hugo server -D (run development server with drafts)  
 
 **caution**  
-hugo (publish)  
+hugo (publish see [deploy-your-site](https://gohugo.io/getting-started/usage/#deploy-your-site))  
 
 ## git branch stategy
 If you "publish" a Hugo site by running the command `hugo`, commit your changes and push to main, the next person to pull from main will not be able to run in development mode with `hugo server --buildDrafts` or `hugo server -D`.
