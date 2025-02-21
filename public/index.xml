@@ -6,35 +6,7 @@
     <description>Recent content on Arion (you said it wrong)</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Feb 2025 10:24:44 -0500</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hurricane Hugo</title>
-      <link>http://localhost:1313/posts/hurricane-hugo/</link>
-      <pubDate>Fri, 21 Feb 2025 10:24:44 -0500</pubDate>
-      <guid>http://localhost:1313/posts/hurricane-hugo/</guid>
-      <description>&lt;h2 id=&#34;from-a-4-year-olds-perspective&#34;&gt;From a 4 Year Old&amp;rsquo;s Perspective&lt;/h2&gt;&#xA;&lt;p&gt;I remember being held by my aunt Lisa.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hurricane_Hugo#North_Carolina&#34;&gt;https://en.wikipedia.org/wiki/Hurricane_Hugo#North_Carolina&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;subtitle---two-number-signs&#34;&gt;Subtitle - Two Number Signs&lt;/h3&gt;&#xA;&lt;h4 id=&#34;subtitle-content-section&#34;&gt;Subtitle Content Section&lt;/h4&gt;</description>
-    </item>
-    <item>
-      <title>PageWithoutSlashPosts</title>
-      <link>http://localhost:1313/pagewithoutslashposts/</link>
-      <pubDate>Fri, 21 Feb 2025 10:19:01 -0500</pubDate>
-      <guid>http://localhost:1313/pagewithoutslashposts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Arion of Corinth</title>
-      <link>http://localhost:1313/posts/arion-of-corinth/</link>
-      <pubDate>Fri, 21 Feb 2025 10:18:18 -0500</pubDate>
-      <guid>http://localhost:1313/posts/arion-of-corinth/</guid>
-      <description>&lt;h2 id=&#34;arion-of-corinth&#34;&gt;Arion of Corinth&lt;/h2&gt;&#xA;&lt;p&gt;A.I. Generated in Brave Browser:&lt;/p&gt;&#xA;&lt;p&gt;Arion of Corinth&lt;/p&gt;&#xA;&lt;p&gt;Arion of Corinth was a renowned Greek lyric poet and musician active in the late 7th century BC. He was born in Methymna, on the island of Lesbos, and lived most of his life at the court of Periander, the tyrant of Corinth. Arion was known for his exceptional skill with the lyre and his contributions to the development of the dithyramb, a choral hymn in honor of Dionysus, although the exact nature of his contributions is debated.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Creating This Website</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Thu, 20 Feb 2025 11:54:34 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;hugo-quickstart&#34;&gt;Hugo Quickstart&lt;/h2&gt;&#xA;&lt;p&gt;I love &lt;a href=&#34;https://go.dev/&#34;&gt;go&lt;/a&gt;. Why I love it, will be another post.&lt;br&gt;&#xA;Hugo is open-source and built with go. Check out the &lt;a href=&#34;https://github.com/gohugoio/hugo&#34;&gt;project on github&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; website states:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hugo is the world’s fastest framework for building websites.&lt;br&gt;&#xA;Hugo is one of the most popular open-source static site generators.&lt;br&gt;&#xA;With its amazing speed and flexibility, Hugo makes building websites fun again.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;We shall see!&lt;/p&gt;&#xA;&lt;p&gt;This site started from the &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;hugo quick start&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Not going into each prerequisite. You can follow the links to the installation instructions.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

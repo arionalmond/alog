@@ -12,6 +12,11 @@ title = 'Arion (you said it wrong)'
 theme = 'ananke'
 ```
 
+https://github.com/theNewDynamic/gohugo-theme-ananke#readme
+add the ananke theme by copying config in themes/ananke/exampleSite/config.toml to root config.toml
+
+
+
 ## Hosting 
 https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
