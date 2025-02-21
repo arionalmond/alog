@@ -7,6 +7,36 @@ hugo server -D (run development server with drafts)
 **caution**  
 hugo (publish see [deploy-your-site](https://gohugo.io/getting-started/usage/#deploy-your-site))  
 
+## TODO
+- confirm when deleting the contents of the public folder is necessary.  
+ - it seems when a new tag is added 
+- use a theme? or nah?
+- menu logic is used within the theme hugo.toml
+- how to add/remove tags
+
+## frontmatter
+[draft-future-and-expired-content](https://gohugo.io/getting-started/usage/#draft-future-and-expired-content)
+
+### publishDate
+
+adding `publishDate = 2025-02-22T15:00:22-05:00` which is, at this moment, in the future, will not show the post, when `draft = true` and running the dev server with `hugo server -D` because the publish date has not been reached. 
+
+## hugo themes
+Can import a theme or just create a new "skeleton".  
+
+Themes have a `hugo.toml` file. Contains site menu logic.  
+[theme-skeleton](https://gohugo.io/getting-started/directory-structure/#theme-skeleton)  
+>Using the union file system described above, Hugo mounts each of these directories to the corresponding location in the project. When two files have the same path, the file in the project directory takes precedence. This allows you, for example, to override a theme’s template by placing a copy in the same location within the project directory.  
+
+Adding to the themes/alog directories moves more of the site to the theme of the site. More long term if continuing to use the theme.  
+
+So, since `/archetypes/` and `themes/alog/archetypes/` both contain the same default.md file, removing it from `/archetypes/` is fine since it is mounted from `themes/alog/archetypes/`.  
+
+Also, this is the reason the lorem ipsum posts remain. Once I want these posts to no longer be mounted into the `/content` directory, I can delete theme from the `/themes/alog/content/` directory.
+
+### alog
+any notes on the alog theme  
+
 ## git branch stategy
 If you "publish" a Hugo site by running the command `hugo`, commit your changes and push to main, the next person to pull from main will not be able to run in development mode with `hugo server --buildDrafts` or `hugo server -D`.
 
@@ -87,7 +117,7 @@ Press Ctrl+C to stop
 
 ```
 
-![first build](assets/first-build.png "first build")
+![first build](doc/first-build.png "first build")
 
 ```
 hugo new content content/posts/my-first-post.md
@@ -116,7 +146,7 @@ Running in Fast Render Mode. For full rebuilds on change: hugo server --disableF
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1) 
 Press Ctrl+C to stop
 ```
-![build after first post](assets/build-after-first-post.png "build-after-first-post")
+![build after first post](doc/build-after-first-post.png "build-after-first-post")
 
 ## notes
 [Hugo in 100 Seconds](https://www.youtube.com/watch?v=0RKpf3rK57I)  

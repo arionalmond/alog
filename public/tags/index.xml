@@ -2,31 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on arion - a log</title>
-    <link>https://arionalmond.github.io/alog/tags/</link>
+    <link>http://localhost:1313/alog/tags/</link>
     <description>Recent content in Tags on arion - a log</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
-    <atom:link href="https://arionalmond.github.io/alog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Feb 2025 15:42:56 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/alog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blue</title>
-      <link>https://arionalmond.github.io/alog/tags/blue/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://arionalmond.github.io/alog/tags/blue/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Green</title>
-      <link>https://arionalmond.github.io/alog/tags/green/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://arionalmond.github.io/alog/tags/green/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Red</title>
-      <link>https://arionalmond.github.io/alog/tags/red/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://arionalmond.github.io/alog/tags/red/</guid>
+      <title>Gray</title>
+      <link>http://localhost:1313/alog/tags/gray/</link>
+      <pubDate>Fri, 21 Feb 2025 15:42:56 -0500</pubDate>
+      <guid>http://localhost:1313/alog/tags/gray/</guid>
       <description></description>
     </item>
   </channel>
