@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://arionalmond.github.io/alog/'
 languageCode = 'en-us'
-title = 'Arion (you said it wrong)'
-theme = 'ananke'
+title = 'arion - a log'
+theme = 'alog'

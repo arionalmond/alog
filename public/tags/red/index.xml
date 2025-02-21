@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on arion - a log</title>
-    <link>https://arionalmond.github.io/alog/</link>
-    <description>Recent content in Home on arion - a log</description>
+    <title>Red on arion - a log</title>
+    <link>https://arionalmond.github.io/alog/tags/red/</link>
+    <description>Recent content in Red on arion - a log</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
-    <atom:link href="https://arionalmond.github.io/alog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arionalmond.github.io/alog/tags/red/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post 3</title>
       <link>https://arionalmond.github.io/alog/posts/post-3/</link>
